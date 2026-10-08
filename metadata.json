@@ -1,0 +1,6 @@
+{
+  "name": "STEM Compass & AI Mentor",
+  "description": "이공계열 학부생을 위한 전공별 맞춤 이수 로드맵, 선수과목 시각화, 진로 가이드 및 다회차 대화형 Gemini 학업 상담 챗봇",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
